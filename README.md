@@ -5,10 +5,10 @@
 
 「src/index.js」19行目
 
-//this.OpenWeatherMapKey = "API KEY"
+  //this.OpenWeatherMapKey = "API KEY"
 
        ↓
 
-// XXXXXXXXXXXXXXXXにAPIキーを入力
+  // XXXXXXXXXXXXXXXXにAPIキーを入力
 
-this.OpenWeatherMapKey = "XXXXXXXXXXXXXXXX"
+  this.OpenWeatherMapKey = "XXXXXXXXXXXXXXXX"
